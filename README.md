@@ -24,7 +24,7 @@
 }</pre>
 <hr>
 <hr>
-<h3>User logout</hr>
+<h3>User logout</h3>
 <p><em>POST /rest-auth/logout/</em></p>
 <hr>
 <hr>
