@@ -1,4 +1,4 @@
-<h1>drf-CustomUser</h1>
+<h1>drf-CustomUser</h1 styles='text-align: center;'>
 <h2>API for CustomUser</h2>
 
 <h3>User registration</h3>
